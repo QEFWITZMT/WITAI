@@ -1,0 +1,27 @@
+{
+  "name": "ZAP-wit",
+  "version": "1.0",
+  "description": "ZAP WIT BOT",
+  "keywords": [
+    "wit",
+    "wit.ai",
+    "bot",
+    "botengine",
+    "bots",
+    "nlp",
+    "automation"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/QEFWITZMT/WITAI.git",
+  "author": "Tournage",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "node-uuid": "^1.4.7",
+	"node-wit" : "^4.1.0"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
