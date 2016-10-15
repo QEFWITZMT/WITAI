@@ -1,6 +1,6 @@
 {
-  "name": "ZAP-wit",
-  "version": "1.0",
+  "name": "ZAP",
+  "version": "1.0.0",
   "description": "ZAP WIT BOT",
   "keywords": [
     "wit",
@@ -20,8 +20,9 @@
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
     "node-uuid": "^1.4.7",
-	"node-wit" : "^4.1.0"
+	"node-wit": "4.1.0"
   },
   "engines": {
     "node": ">=4.0.0"
   }
+}
